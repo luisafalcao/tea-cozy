@@ -138,7 +138,7 @@ main {
 footer {
     position: relative;
     top: 69px;
-} /* why do i need to add top to footer and main when header's position is fixed? */
+}
 
 .contact {
     height: 200px;
